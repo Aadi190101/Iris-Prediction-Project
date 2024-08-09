@@ -1,5 +1,8 @@
 # Iris-Prediction-Project
 
+This project contains 2 files.
+**Iris_prediction_project** somewhere contains the overfitting condition where as **iris_pred** gives the bests results.
+
 This project includes data collection, EDA, cleaning, feature engineering, model selection, data splitting, model training, hyperparameter tuning, model evaluation, and model improvement through iteration and cross-validation.
 
 **Overview**
